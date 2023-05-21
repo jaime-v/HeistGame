@@ -1,6 +1,5 @@
 package groupOne.game;
 
-import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import java.awt.Rectangle;
 
@@ -18,7 +17,6 @@ public abstract class UI_Object {
     public BufferedImage image;
     protected String name;
     public boolean collision = false;
-    private int x, y;
     public Rectangle solidArea = new Rectangle(0,0,48,48); // solid area is the collision detection area, can change it up if you want
     public int solidAreaDefaultX = 0;
     public int solidAreaDefaultY = 0;

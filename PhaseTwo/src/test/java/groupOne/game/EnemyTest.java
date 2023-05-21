@@ -1,7 +1,6 @@
 package groupOne.game;
 import org.junit.Test;
 
-import groupOne.game.Entity.Directions;
 import groupOne.game.AssetSetter.ObjectType;
 import groupOne.game.GamePanel.GameState;
 import java.awt.event.KeyEvent;

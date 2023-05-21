@@ -1,5 +1,4 @@
 package groupOne.game;
-import java.awt.Graphics2D;
 import org.junit.Test;
 
 public class UITest {

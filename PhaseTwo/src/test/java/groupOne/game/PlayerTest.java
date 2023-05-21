@@ -1,6 +1,5 @@
 package groupOne.game;
 
-import static org.junit.Assert.assertEquals;
 
 import java.awt.event.KeyEvent;
 
