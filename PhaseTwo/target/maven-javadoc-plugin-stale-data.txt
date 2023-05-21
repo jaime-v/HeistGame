@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/Jaime Villanueva/276Project/group-project/PhaseTwo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Jaime Villanueva/276Project/group-project/PhaseTwo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PhaseTwo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/Jaime Villanueva/276Project/group-project/PhaseTwo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'PhaseTwo 1.0-SNAPSHOT API'
+groupOne.game
+groupOne.game.interfaces
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\src\main\java = 1679118844987
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\allclasses-index.html = 1681426599560
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\allpackages-index.html = 1681426599561
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\element-list = 1681426599431
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\help-doc.html = 1681426599588
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\index-all.html = 1681426599584
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\index.html = 1681426599544
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\jquery-ui.overrides.css = 1681426599663
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\member-search-index.js = 1681426599564
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\module-search-index.js = 1681426599562
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\overview-summary.html = 1681426599585
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\overview-tree.html = 1681426599542
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\package-search-index.js = 1681426599563
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\script.js = 1681426599604
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\search.js = 1681426599605
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\serialized-form.html = 1681426599462
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\stylesheet.css = 1681426599594
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\tag-search-index.js = 1681426599565
+C:\Users\Jaime Villanueva\276Project\group-project\PhaseTwo\target\site\apidocs\type-search-index.js = 1681426599563
